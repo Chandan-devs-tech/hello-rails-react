@@ -94,7 +94,7 @@ Install this project with:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 Sana Tameem
+👤 Chandan Gupta
 
 - GitHub: [@githubhandle](https://github.com/Chandan-devs-tech)
 - Twitter: [@twitterhandle](https://twitter.com/ChandanGuptaDev)
